@@ -5,4 +5,4 @@ Technologies used: UIKit, Foundation, AVFoundation, Timer, PlaygroundSupport, Pl
 
 Status: Winner
 
-![Banner](/Financials - WWDC18 (Banner).jpg)
+![Banner](/Financials%20-%20WWDC18%20(Banner).jpg)
